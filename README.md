@@ -1,11 +1,12 @@
 # Tatica
 * Welcome to our application, Tatica. 
-* Tatica is a brainchild of our group. It is created to help people work more effectively with pomodoro time and build the community sharing knowledge and experience about working and studying.
+* Tatica is a brainchild of our group. It is created to help people work more effectively with pomodoro method and build the community sharing knowledge and experience about working and studying.
 
 # Prerequisites
 * Before continue, ensure you meet the following requirements:
 	* The version of android studio should be the latest version.
-	* The minimum API level supported by our application is API 19 (Kitkat).
+	* The minimum API level supported by our application is API 23 (Marshmallow).
+	* Set up the emulator with 6.3" for best experience.
 	
 # Installation
 	Download the source code in .rar, extract and run with your android studio. Enjoys it!
@@ -24,7 +25,7 @@
 		
 # Main features
 * Easily manage task on deadline. 
-* Work effectively with Pomodoro time.
+* Work effectively with Pomodoro method.
 * Easy to create and manage Note in app.
 * Rank system due to time work in app.  
 * Community shares mainly in educational events that can be joined and donated.
